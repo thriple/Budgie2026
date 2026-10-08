@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budgie</string>
+    <string name="widget_name">Budgie budget</string>
+    <string name="widget_description">Remaining budget with a number pad to subtract from it.</string>
+</resources>
